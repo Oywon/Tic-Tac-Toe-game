@@ -1,28 +1,50 @@
-# 🎮 Tic Tac Toe Game
+🎮 Tic Tac Toe Game
+A modern, responsive Tic Tac Toe game built with HTML, CSS, and JavaScript.
+✨ Features
 
-A modern, responsive Tic Tac Toe game built with HTML, CSS, and JavaScript featuring:
+Beautiful gradient design with glassmorphism effects
+Smooth animations and hover effects
+Score tracking system
+Responsive design for all devices
+Winning line highlighting
+Game reset functionality
 
-## ✨ Features
-- Beautiful gradient design with glassmorphism effects
-- Smooth animations and hover effects
-- Score tracking system
-- Responsive design for all devices
-- Winning line highlighting
-- Game reset functionality
+🚀 Live Demo
+Play the Game
+🛠️ Technologies Used
 
-## 🚀 Live Demo
-[Play the Game](https://Oywon.github.io/tic-tac-toe-game)
+HTML5
+CSS3 (Grid, Flexbox, Animations)
+JavaScript
 
-## 🛠️ Technologies Used
-- HTML5
-- CSS3 (Grid, Flexbox, Animations)
-- Vanilla JavaScript
+🎯 How to Play
 
-## 🎯 How to Play
-1. Players take turns clicking on empty squares
-2. First player to get 3 in a row (horizontal, vertical, or diagonal) wins
-3. Click "New Game" to start over
-4. Click "Reset Score" to clear the scoreboard
+Players take turns clicking empty squares.
+First to get 3 in a row (horizontal, vertical, or diagonal) wins.
+Click "New Game" to start over.
+Click "Reset Score" to clear the scoreboard.
 
-## 📱 Responsive Design
-The game works perfectly on desktop, tablet, and mobile devices.
+📱 Responsive Design
+Works on desktop, tablet, and mobile devices.
+🖥️ Setup
+
+Clone the repository: git clone https://github.com/Oywon/Tic-Tac-Toe-game.git
+Open index.html in a browser to play locally.
+To host on GitHub Pages:
+Go to Settings > Pages in the repository.
+Set source to main branch and / (root) folder.
+Access the game at https://oywon.github.io/Tic-Tac-Toe-game.
+
+
+
+📂 File Structure
+Tic-Tac-Toe-game/
+├── index.html    # Main game file
+├── style.css     # Styles for the game
+├── script.js     # Game logic
+└── README.md     # This file
+
+📬 Contact
+
+Email: oywonislam@gmail.com
+GitHub: github.com/oywon
