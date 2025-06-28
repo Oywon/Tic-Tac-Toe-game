@@ -11,7 +11,7 @@ A modern, responsive Tic Tac Toe game built with HTML, CSS, and JavaScript featu
 - Game reset functionality
 
 ## 🚀 Live Demo
-[Play the Game](https://yourusername.github.io/tic-tac-toe-game)
+[Play the Game](https://Oywon.github.io/tic-tac-toe-game)
 
 ## 🛠️ Technologies Used
 - HTML5
